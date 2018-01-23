@@ -1,0 +1,52 @@
+Broken after 5iterations
+Cluster id: 1 [4]
+
+Cluster id: 2 [6, 12, 13, 20, 75, 93, 97]
+
+Cluster id: 3 [15, 66, 76, 81, 90]
+
+Cluster id: 4 [8, 17, 94, 98]
+
+Cluster id: 5 [11, 22, 70, 92]
+
+Cluster id: 6 [24, 29, 34, 51, 63, 65]
+
+Cluster id: 7 [32, 52]
+
+Cluster id: 8 [33, 83, 91]
+
+Cluster id: 9 [28, 37, 68, 71, 72]
+
+Cluster id: 10 [5, 43]
+
+Cluster id: 11 [36, 48, 82, 95, 96]
+
+Cluster id: 12 [9, 44, 49]
+
+Cluster id: 13 [18, 21, 69, 74]
+
+Cluster id: 14 [2, 53, 57, 61]
+
+Cluster id: 15 [1, 99]
+
+Cluster id: 16 [39, 58]
+
+Cluster id: 17 [38, 56, 59]
+
+Cluster id: 18 [62]
+
+Cluster id: 19 [31, 79]
+
+Cluster id: 20 [60, 64]
+
+Cluster id: 21 [10, 19, 27, 41, 54, 55, 73, 77, 78, 85, 88, 89]
+
+Cluster id: 22 [14, 26, 40, 50, 84]
+
+Cluster id: 23 [7, 87]
+
+Cluster id: 24 [23, 30, 35, 45, 46, 47, 67, 86]
+
+Cluster id: 25 [3, 16, 25, 42, 80, 100]
+
+Sum of squared error :1.8273975028484803
